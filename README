@@ -1,0 +1,1 @@
+war.py contains the classes for a playing card, a deck, a dealer and players. You can add numerous other functions to the classes and use the dealer to implmeent whichever game logic you would like. The dealer has access to the players hands, the deck and the cards.
